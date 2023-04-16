@@ -8,8 +8,23 @@ test
         + kiểm tra trạng thái file
             git status
         + thêm file
-            git add.
+            git add .
         + Tạo nội dung commit
             git commit -m "your-message"
         + đấy code lên github
             git push origin main
+2. Dự án của chính mình
+    - b1: Tạo 1 github repository(folder) - nơi chứa code
+    - b2: đẩy code lên
+        + khởi tạo
+            git init
+        + kiểm tra trạng thái
+            git status
+        + thêm file
+            git add .
+        + kiểm tra file đã ad chưa
+            git status
+        + Tạo nội dụng commit
+            git commit -m "đẩy code nè"
+        + Đẩy code lên github
+            git remote add origin `link`
