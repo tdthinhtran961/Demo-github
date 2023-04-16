@@ -28,3 +28,4 @@ test
             git commit -m "đẩy code nè"
         + Đẩy code lên github
             git remote add origin `link`
+            git push origin master
