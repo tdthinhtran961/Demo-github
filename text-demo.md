@@ -17,15 +17,15 @@ test
     - b1: Tạo 1 github repository(folder) - nơi chứa code
     - b2: đẩy code lên
         + khởi tạo
-            git init
+            - git init
         + kiểm tra trạng thái
-            git status
+            - git status
         + thêm file
-            git add .
+            - git add .
         + kiểm tra file đã ad chưa
-            git status
+            - git status
         + Tạo nội dụng commit
-            git commit -m "đẩy code nè"
+            - git commit -m "đẩy code nè"
         + Đẩy code lên github
-            git remote add origin `link`
-            git push origin master
+            - git remote add origin `link`
+            - git push origin master
