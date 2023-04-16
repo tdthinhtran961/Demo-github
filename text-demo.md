@@ -6,13 +6,13 @@ test
     - b3: viết code
     - b4: đẩy code
         + kiểm tra trạng thái file
-            git status
+            - git status
         + thêm file
-            git add .
+            - git add .
         + Tạo nội dung commit
-            git commit -m "your-message"
+            - git commit -m "your-message"
         + đấy code lên github
-            git push origin main
+            - git push origin main
 2. Dự án của chính mình
     - b1: Tạo 1 github repository(folder) - nơi chứa code
     - b2: đẩy code lên
